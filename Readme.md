@@ -58,6 +58,4 @@
 - Follow the on-screen instructions to complete alcohol, temperature, and air quality checks.
 - Monitor health data and air quality levels in real-time on the TFT display.
 
-## License
-This project is open-source and free to use.
 
